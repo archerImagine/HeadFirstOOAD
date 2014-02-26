@@ -13,5 +13,6 @@ Notes
 -
 
 1. [Chapter 01](src/head/first/OOAD/chapter01/ReadMe.md): Encapsulation & Delegation
+2. [Chapter 02](src/head/first/OOAD/chapter02/ReadMe.md): Requirement Gathering.
 
 
